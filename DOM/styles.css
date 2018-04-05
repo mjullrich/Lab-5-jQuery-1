@@ -13,10 +13,10 @@ button {
 #my_centered_buttons2,
 #my_centered_buttons3,
 #centerBox,
-#squareWrapper, #emptyDiv {
+#squareWrapper, #emptyDiv, #my_centered_buttons4, #emptyDiv2, emptyDiv3 {
     display: flex;
     justify-content: center;
-    padding: 50px;
+    padding: 10px;
 }
 
 body {
@@ -59,4 +59,12 @@ input {
     font-size: 30px;
        }
 
-  
+ #friendList {
+ color: black;
+font-weight: bold;
+font-size: 20px;
+ }
+
+ #friendList li {
+     list-style: none;
+ }
