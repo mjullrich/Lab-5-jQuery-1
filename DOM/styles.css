@@ -1,0 +1,62 @@
+button {
+    font-size: 30px;
+    color: white;
+    width: 400px;
+    font-weight: bold;
+    text-align: center;
+    font-weight: bold;
+    background: black;
+    border: black;
+}
+
+#my_centered_buttons,
+#my_centered_buttons2,
+#my_centered_buttons3,
+#centerBox,
+#squareWrapper, #emptyDiv {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+body {
+    background-color: rgb(43, 62, 235);
+    margin-top: auto;
+}
+
+input {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    font-size: 30px;
+    color: black;
+    width: 400px;
+    font-weight: bold;
+    text-align: center;
+    background: white;
+}
+
+#square {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+   }
+
+#paragraph {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+#myName {
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+       }
+
+  
